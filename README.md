@@ -220,4 +220,4 @@ DirectX 11 is available as a full free version with all features and updates inc
 Take your multimedia experience to the next level with DirectX 11. Download now and enjoy all its features for free!
 
 ---
-**Last updated:** 2026-10-27 19:06:44 UTC
+**Last updated:** 2026-10-27 23:22:58 UTC
